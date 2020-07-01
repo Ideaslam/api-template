@@ -28,7 +28,7 @@ namespace Api.Controllers
 
  
         [HttpPost]
-        [ActionName("GetAll")]
+        
         public  ActionResult<CitySearchResult>  Get(CitySearchCriteria  citySearchCriteria)
         {
             return Ok(cityOrchestrator.Get(citySearchCriteria));
@@ -36,14 +36,14 @@ namespace Api.Controllers
 
 
         [HttpPost]
-        [ActionName("Create")]
+        
         public ActionResult<CitySearchResult> Create(City city)
         {
             return Ok(cityOrchestrator.Create(city));
         }
 
         [HttpPost]
-        [ActionName("Update")]
+       
         public ActionResult<CitySearchResult> Update(City city)
         {
             return Ok(cityOrchestrator.Update(city));
@@ -52,7 +52,7 @@ namespace Api.Controllers
 
 
         [HttpPost]
-        [ActionName("Delete")]
+        
         public ActionResult<ExecutionResponse<bool>> Delete([FromBody] CitySearchCriteria searchCriteria)
         {
             var id = searchCriteria.Id ?? 0; 

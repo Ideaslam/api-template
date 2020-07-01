@@ -32,13 +32,27 @@ namespace Orchestrator.Common
         public CitySearchResult Get (CitySearchCriteria  citySearchCriteria)
         {
             var res = new CitySearchResult();
-            res.cityDTOs = cityRepository.GetAsQueryable(citySearchCriteria)
-                .Select ( city => new CityDTO { 
-                Id =city.Id,
-                Name =city.Name
-                }).ToList();
+            try
+            { 
+                res.cityDTOs = cityRepository.GetAsQueryable(citySearchCriteria)
+                    .Select(city => new CityDTO
+                    {
+                        Id = city.Id,
+                        Name = city.Name
+                    }).ToList();
 
-            return res; 
+                res.TotalCount = res.cityDTOs.Count;
+                
+
+               
+            }
+            catch (Exception ex )
+            {
+                res.Exception = ex;
+                res.Message = "Error";
+            }
+            return res;
+
         }
 
 
