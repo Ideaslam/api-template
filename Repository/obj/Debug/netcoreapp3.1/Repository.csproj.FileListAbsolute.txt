@@ -1,0 +1,17 @@
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\bin\Debug\netcoreapp3.1\Data.dll
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\bin\Debug\netcoreapp3.1\Domain.dll
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\bin\Debug\netcoreapp3.1\Enums.dll
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\bin\Debug\netcoreapp3.1\Model.dll
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\bin\Debug\netcoreapp3.1\Data.pdb
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\bin\Debug\netcoreapp3.1\Model.pdb
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\bin\Debug\netcoreapp3.1\Enums.pdb
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+E:\islam\Projects\PrjectTest\api-template\Api\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

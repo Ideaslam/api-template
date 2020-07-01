@@ -1,0 +1,11 @@
+E:\islam\Projects\PrjectTest\api-template\Api\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\islam\Projects\PrjectTest\api-template\Api\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\islam\Projects\PrjectTest\api-template\Api\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\islam\Projects\PrjectTest\api-template\Api\Domain\bin\Debug\netcoreapp3.1\Enums.dll
+E:\islam\Projects\PrjectTest\api-template\Api\Domain\bin\Debug\netcoreapp3.1\Enums.pdb
+E:\islam\Projects\PrjectTest\api-template\Api\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+E:\islam\Projects\PrjectTest\api-template\Api\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\islam\Projects\PrjectTest\api-template\Api\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\islam\Projects\PrjectTest\api-template\Api\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+E:\islam\Projects\PrjectTest\api-template\Api\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\islam\Projects\PrjectTest\api-template\Api\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

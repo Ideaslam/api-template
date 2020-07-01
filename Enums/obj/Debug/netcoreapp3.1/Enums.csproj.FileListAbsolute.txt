@@ -1,0 +1,8 @@
+E:\islam\Projects\PrjectTest\api-template\Api\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+E:\islam\Projects\PrjectTest\api-template\Api\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+E:\islam\Projects\PrjectTest\api-template\Api\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+E:\islam\Projects\PrjectTest\api-template\Api\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+E:\islam\Projects\PrjectTest\api-template\Api\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+E:\islam\Projects\PrjectTest\api-template\Api\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+E:\islam\Projects\PrjectTest\api-template\Api\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+E:\islam\Projects\PrjectTest\api-template\Api\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
